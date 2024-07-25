@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\CoffeeCatRazporPage\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoffeeCatRazporPage\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\CatCoffee\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CatCoffee\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\catcoffee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:catcoffee\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\extension\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\extension\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\iguestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\iguestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\guestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\isystemadministratorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\isystemadministratorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\coffeeshopmanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\coffeeshopmanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\icoffeeshopmanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\icoffeeshopmanagerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\entities\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entities\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\icoffeeshopstaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\icoffeeshopstaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\entities\\shopvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entities\\shopvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\coffeeshopstaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\coffeeshopstaffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\auth\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\auth\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\auth\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\auth\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\auth\\signinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\auth\\signinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\daos\\coffeecatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:daos\\coffeecatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\auth\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\auth\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\auth\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\auth\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\auth\\isigninrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\auth\\isigninrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\auth\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\auth\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\repositories\\auth\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:repositories\\auth\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\entities\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:entities\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:44:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:47:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:48:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\CoffeeCatRazporPage\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeCatRazporPage\\Program.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\CoffeeCatRazporPage\\Program.cs",
+              "RelativeToolTip": "CoffeeCatRazporPage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:09:53.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\CatCoffee\\Program.cs",
+              "RelativeDocumentMoniker": "CatCoffee\\Program.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\CatCoffee\\Program.cs",
+              "RelativeToolTip": "CatCoffee\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:06:23.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\CatCoffee\\Form1.cs",
+              "RelativeDocumentMoniker": "CatCoffee\\Form1.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\CatCoffee\\Form1.cs [Design]",
+              "RelativeToolTip": "CatCoffee\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:05:33.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Extension\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Repositories\\Extension\\DependencyInjection.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Extension\\DependencyInjection.cs",
+              "RelativeToolTip": "Repositories\\Extension\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:26:05.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:56:45.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepositoryBase.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:52:40.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGuestRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\IGuestRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IGuestRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\IGuestRepository.cs",
+              "RelativeToolTip": "Repositories\\IGuestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:53:57.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:53:58.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GuestRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\GuestRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GuestRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\GuestRepository.cs",
+              "RelativeToolTip": "Repositories\\GuestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:53:20.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISystemAdministratorRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\ISystemAdministratorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ISystemAdministratorRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\ISystemAdministratorRepository.cs",
+              "RelativeToolTip": "Repositories\\ISystemAdministratorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:36:16.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoffeeShopManagerRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\CoffeeShopManagerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CoffeeShopManagerRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\CoffeeShopManagerRepository.cs",
+              "RelativeToolTip": "Repositories\\CoffeeShopManagerRepository.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAIwAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:22:11.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICoffeeShopManagerRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\ICoffeeShopManagerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICoffeeShopManagerRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\ICoffeeShopManagerRepository.cs",
+              "RelativeToolTip": "Repositories\\ICoffeeShopManagerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:35:43.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Repositories\\ApplicationUser.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\ApplicationUser.cs",
+              "RelativeToolTip": "Repositories\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:53:12.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Entities\\Shop.cs",
+              "RelativeDocumentMoniker": "Entities\\Shop.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Entities\\Shop.cs",
+              "RelativeToolTip": "Entities\\Shop.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T22:49:18.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICoffeeShopStaffRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\ICoffeeShopStaffRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICoffeeShopStaffRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\ICoffeeShopStaffRepository.cs",
+              "RelativeToolTip": "Repositories\\ICoffeeShopStaffRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:02:18.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShopVoucher.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Entities\\ShopVoucher.cs",
+              "RelativeDocumentMoniker": "Entities\\ShopVoucher.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Entities\\ShopVoucher.cs",
+              "RelativeToolTip": "Entities\\ShopVoucher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T22:57:14.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoffeeShopStaffRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\CoffeeShopStaffRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CoffeeShopStaffRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\CoffeeShopStaffRepository.cs",
+              "RelativeToolTip": "Repositories\\CoffeeShopStaffRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:01:46.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "Entities\\Booking.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Entities\\Booking.cs",
+              "RelativeToolTip": "Entities\\Booking.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T14:25:53.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Auth\\SessionRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\SessionRepository.cs",
+              "RelativeToolTip": "Repositories\\Auth\\SessionRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCAAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:20:08.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ISessionRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\ISessionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Auth\\ISessionRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\ISessionRepository.cs",
+              "RelativeToolTip": "Repositories\\Auth\\ISessionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T23:41:21.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SignInRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\SignInRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Auth\\SignInRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\SignInRepository.cs",
+              "RelativeToolTip": "Repositories\\Auth\\SignInRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:21:30.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CoffeeCatContext.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\DAOs\\CoffeeCatContext.cs",
+              "RelativeDocumentMoniker": "DAOs\\CoffeeCatContext.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\DAOs\\CoffeeCatContext.cs",
+              "RelativeToolTip": "DAOs\\CoffeeCatContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T11:52:20.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProfileRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\IProfileRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Auth\\IProfileRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\IProfileRepository.cs",
+              "RelativeToolTip": "Repositories\\Auth\\IProfileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T23:41:14.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRegisterRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\IRegisterRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Auth\\IRegisterRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\IRegisterRepository.cs",
+              "RelativeToolTip": "Repositories\\Auth\\IRegisterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T23:41:16.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ISignInRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\ISignInRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Auth\\ISignInRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\ISignInRepository.cs",
+              "RelativeToolTip": "Repositories\\Auth\\ISignInRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T23:41:27.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\RegisterRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Auth\\RegisterRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\RegisterRepository.cs",
+              "RelativeToolTip": "Repositories\\Auth\\RegisterRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:21:24.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProfileRepository.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\ProfileRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Auth\\ProfileRepository.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Repositories\\Auth\\ProfileRepository.cs",
+              "RelativeToolTip": "Repositories\\Auth\\ProfileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:19:46.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Entities\\Cat.cs",
+              "RelativeDocumentMoniker": "Entities\\Cat.cs",
+              "ToolTip": "D:\\PRN221\\CoffeeCat\\prn-coffee-cat\\CoffeeCat\\Entities\\Cat.cs",
+              "RelativeToolTip": "Entities\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:06:08.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

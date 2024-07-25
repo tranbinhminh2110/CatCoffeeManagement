@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AreaManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AreasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookingHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CatManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuItemManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShopForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShopManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TableManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TablesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

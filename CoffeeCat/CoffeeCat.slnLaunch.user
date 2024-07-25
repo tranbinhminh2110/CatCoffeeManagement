@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "DAOs\\DAOs.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "Entities\\Entities.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "Repositories\\Repositories.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "CoffeeCatRazporPage\\CoffeeCatRazporPage.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
